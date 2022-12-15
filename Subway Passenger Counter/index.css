@@ -1,0 +1,30 @@
+body
+{
+
+    text-align: center;
+    margin-top: 200px;
+  
+
+ 
+}
+
+#button
+{
+    background-color: RED;
+    border: 0;
+  padding: 20px;
+  color:white;
+  border-radius: 50px;
+  font-weight:bold; ;
+}
+
+#save-btn
+{
+    background-color: green;
+    border: 0;
+    padding: 20px;
+    width:120px;
+    color:white;
+    border-radius: 50px;
+    font-weight:bold;
+}
